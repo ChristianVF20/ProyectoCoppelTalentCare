@@ -18,6 +18,9 @@ public class Principal {
 		String apm;
 		long numCel;
 		
+		System.out.println("Que tal que hace");
+		System.out.println("¿como estas?");
+		
 		Empleados empleado;
 		
 		LogicaMetodos imp = new LogicaMetodos();
